@@ -1,0 +1,18 @@
+.aiwip-legend {
+
+}
+
+.aiwip-legend .aiwip-legend-item .aiwip-legend-colorbox {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+}
+
+.aiwip-legend .aiwip-legend-item .aiwip-legend-value {
+	font-size: 0.825em;
+	color: gray;
+}
+.aiwip-legend .aiwip-legend-item .aiwip-legend-percent {
+	font-size: 0.825em;
+	color: gray;
+}
